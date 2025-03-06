@@ -2,7 +2,8 @@
 mugen-PSV工具集合
 这个是一个将mugen游戏套壳移植到psv上的工具集合说明
 --------------------------------------------
-套壳程序采用开源项目的Dolmexica Infinite的PSVita启动eboot.bin
+套壳程序采用开源项目的Dolmexica Infinite的PSVita启动eboot.bin(最新版本ver1.6)
+后续更新你也可以自行替换eboot.bin
 项目开源地址：https://captaindreamcast.itch.io/
 
 
