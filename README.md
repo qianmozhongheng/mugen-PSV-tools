@@ -20,8 +20,11 @@ mugen-PSV工具集合
 ------------------------
 下载链接请看仓库推荐mugen游戏模板文件
 
-MBAA:《月姬格斗》的mugen模板
+（1）MBAA:《月姬格斗》的mugen模板
+https://www.123684.com/s/eAc0jv-C1HAA?提取码:iEAI
 
-Mugen Melty Blood Fusion：最接近官方效果的《月姬格斗》mugen复刻版
+（2）Mugen Melty Blood Fusion：最接近官方效果的《月姬格斗》mugen复刻版
+https://www.123684.com/s/eAc0jv-W1HAA?提取码:16Ax
 
-型月嘉年华：typemoon人物大乱斗
+（3）型月嘉年华：typemoon人物大乱斗
+https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY
