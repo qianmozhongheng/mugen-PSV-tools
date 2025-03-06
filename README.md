@@ -30,3 +30,5 @@ https://www.123684.com/s/eAc0jv-W1HAA?提取码:16Ax
 
 （3）型月嘉年华：typemoon人物大乱斗
 https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY
+
+特别感谢哔哩哔哩的@初代npc大大提供的教程帮助
