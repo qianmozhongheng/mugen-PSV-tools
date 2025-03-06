@@ -22,7 +22,7 @@ mugen-PSV工具集合
 ------------------------
 下载链接请看仓库推荐mugen游戏模板文件
 
-（1）MBAA:《月姬格斗》的mugen模板
+（1）MBAA:《月姬格斗》的mugen模板（目前兼容性最完美的版本，需要你自己手动添加人物）
 https://www.123684.com/s/eAc0jv-C1HAA?提取码:iEAI
 
 （2）Mugen Melty Blood Fusion：最接近官方效果的《月姬格斗》mugen复刻版
