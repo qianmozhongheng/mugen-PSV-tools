@@ -31,4 +31,16 @@ https://www.123684.com/s/eAc0jv-W1HAA?提取码:16Ax
 （3）型月嘉年华：typemoon人物大乱斗
 https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY
 
+---------------------------
+个人使用mugen重写的游戏：
+------------------------
+
+（1）Mugen Melty Blood Fusion：最接近官方效果的《月姬格斗》mugen复刻版
+https://www.123684.com/s/eAc0jv-W1HAA?提取码:16Ax
+
+（2）型月嘉年华：typemoon人物大乱斗
+https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY
+
+
+
 特别感谢哔哩哔哩的@初代npc大大提供的教程帮助
