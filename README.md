@@ -35,11 +35,11 @@ https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY
 个人使用mugen重写的游戏：
 ------------------------
 
-（1）Mugen Melty Blood Fusion：最接近官方效果的《月姬格斗》mugen复刻版
-https://www.123684.com/s/eAc0jv-W1HAA?提取码:16Ax
+（1）MBAA：PSV母版，内存溢出的问题太难解决了，索性直接放出来文件
+[https://www.123684.com/s/eAc0jv-W1HAA?提取码:16Ax](https://www.123684.com/s/eAc0jv-c4HAA?提取码:kR9C)
 
-（2）型月嘉年华：typemoon人物大乱斗
-https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY
+（2）MBAA：PC
+[https://www.123684.com/s/eAc0jv-s1HAA?提取码:BkaY](https://www.123684.com/s/eAc0jv-e4HAA?提取码:tUkA)
 
 
 
